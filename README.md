@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @savan
-- Learning AI and backend via boot.dev
